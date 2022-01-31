@@ -12,7 +12,7 @@ I love to learn and improve my skills on a regular basis: Right now I started to
 
 I am open to collaborate on coding projects, job offers and sharing experiences in tech!
 
-Contact me here https://de.linkedin.com/in/robin-skladny-647a1b229 or here robin_skladny@gmx.de
+Feel free to contact me here https://de.linkedin.com/in/robin-skladny-647a1b229 or here robin_skladny@gmx.de
 
 
 
