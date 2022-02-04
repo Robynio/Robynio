@@ -6,7 +6,7 @@ While I am also able to make things look good in the frontend, I love to structu
 
 🤖 Technologies I work with: NODE.js, Express, Mongo-DB, SQL, Passport.js, REACT, Bootstrap... to be expanded soon!
 
-I love to learn and improve my skills on a regular basis: Right now I started to get into cloud computing and working with SQL DB.
+I love to learn and improve my skills on a regular basis: I have been starting to get into cloud computing and working with SQL DB now.
 
 🏀 When I am not coding I cook, I hoop or try not to fall off a horse 🐴
 
