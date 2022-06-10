@@ -1,4 +1,4 @@
-### Hello, hallo, hola, olá! 👋
+### Hello, hallo, olá! 👋
 
 I am passionate about developing ideas and bring them to code.
 
