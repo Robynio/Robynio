@@ -8,7 +8,7 @@ While I am also able to make things look good in the frontend, I love to structu
 
 I love to learn and improve my skills on a regular basis.
 
-🏀 When I am not coding I cook, I hoop or try not to fall off a horse 🐴
+🏀 When I am not coding I cook, I hoop or try not to fall off a horse!
 
 I am open to collaborate on coding projects, job offers and sharing experiences in tech!
 
